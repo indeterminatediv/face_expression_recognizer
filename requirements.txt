@@ -1,4 +1,5 @@
-numpy
+numpy==1.22
 tensorflow
 
 opencv-python
+urllib3==1.26.7
