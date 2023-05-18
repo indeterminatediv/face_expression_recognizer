@@ -1,6 +1,9 @@
 tensorflow
 
 opencv-python
-urllib3==1.26.7
-protobuf==4.0.0
+
+numpy
+
+
+
 
